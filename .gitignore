@@ -1,6 +1,5 @@
 /__pycache__/
-/try.ipynb
-/try_result.png
 /.vscode/
-/result/
-/TEST.png
+/scale_invariant_points/scale_space/
+/scale_invariant_points/__pycache__/
+/stitch_picture/__pycache__/
