@@ -1,5 +1,6 @@
 /__pycache__/
 /.vscode/
-/scale_invariant_points/scale_space/
 /scale_invariant_points/__pycache__/
+/scale_invariant_points/scale_space/
+/scale_invariant_points/result/
 /stitch_picture/__pycache__/

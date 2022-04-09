@@ -5,8 +5,9 @@ Programs here all run on Python 3.9.7, but they may run on a lower version.
 
 
 **Tips:**  
-1. If you want to try another picture, modify variable ***img_path*** in **readin picture** part
-2. New file folder "result" may be created to store the pictures in scale space. You may need to check the variable ***pic_store*** in **generate scale space** part.
+1. If you want to try another picture, modify variable ***img_path*** and ***enlarged_path*** in **readin picture** part
+2. New file folder may be created to store the pictures in scale space. You may need to check the variable ***pic_store*** in **get_points** function.  
+
 
 **Requirements:**
 - openCV >= 4.5.5.64
